@@ -1,5 +1,5 @@
 """
-network.py
+network.py 
 ~~~~~~~~~~
 
 A module to implement the stochastic gradient descent learning
